@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2819B4D82570E502008B2AA1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2819B4D72570E502008B2AA1 /* main.cpp */; };
+		2819B4D82570E502008B2AA1 /* startingFile.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2819B4D72570E502008B2AA1 /* startingFile.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		2819B4D42570E502008B2AA1 /* Imp Que Ladder Level1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Imp Que Ladder Level1"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2819B4D72570E502008B2AA1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2819B4D72570E502008B2AA1 /* startingFile.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = startingFile.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		2819B4D62570E502008B2AA1 /* Imp Que Ladder Level1 */ = {
 			isa = PBXGroup;
 			children = (
-				2819B4D72570E502008B2AA1 /* main.cpp */,
+				2819B4D72570E502008B2AA1 /* startingFile.cpp */,
 			);
 			path = "Imp Que Ladder Level1";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2819B4D82570E502008B2AA1 /* main.cpp in Sources */,
+				2819B4D82570E502008B2AA1 /* startingFile.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
